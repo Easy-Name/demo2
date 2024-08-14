@@ -1,0 +1,14 @@
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\bin\Debug\net8.0\GithubBoiii.exe
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\bin\Debug\net8.0\GithubBoiii.deps.json
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\bin\Debug\net8.0\GithubBoiii.runtimeconfig.json
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\bin\Debug\net8.0\GithubBoiii.dll
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\bin\Debug\net8.0\GithubBoiii.pdb
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.AssemblyInfoInputs.cache
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.AssemblyInfo.cs
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.csproj.CoreCompileInputs.cache
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.dll
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\refint\GithubBoiii.dll
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.pdb
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.genruntimeconfig.cache
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\ref\GithubBoiii.dll
