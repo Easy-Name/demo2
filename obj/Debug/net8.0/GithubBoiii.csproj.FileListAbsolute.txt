@@ -12,3 +12,4 @@ C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\re
 C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.pdb
 C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.genruntimeconfig.cache
 C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\ref\GithubBoiii.dll
+C:\Users\SeyiOG\Documents\GuaraGuara\GithubBoiii\GithubBoiii\obj\Debug\net8.0\GithubBoiii.sourcelink.json
